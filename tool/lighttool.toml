@@ -1,0 +1,11 @@
+[tool]
+id = "com.slowpixels.kidtimer"
+label = "Kid Timer"
+versionCode = 1
+versionName = "1.0.0"
+permissions = []
+capabilities = []
+# for the LightOS emulator, use the line below and build with -DlightSdk.allowAltServerPackage=true
+# serverPackage = "com.thelightphone.sdk.emulator"
+serverPackage = "com.lightos"
+orientation = "portrait"
